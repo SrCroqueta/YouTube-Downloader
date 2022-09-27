@@ -36,7 +36,7 @@ img = ImageTk.PhotoImage(data=open(logoApp, "rb").read())
 imgLabel = Label(root, image = img)
 imgLabel.place(x = 25, y = 25)
 
-titleLabel = Label(root, text = "YouTube Downloader", font = ('Impact', 32), fg = 'black')
+titleLabel = Label(root, text = appName, font = ('Impact', 32), fg = 'black')
 titleLabel.place(x = 155, y = 45)
 
 textLabel = Label(root, text = "YouTube URL:", font = ('Arial', 12), fg = 'black')
