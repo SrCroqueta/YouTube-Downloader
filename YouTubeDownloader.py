@@ -6,8 +6,8 @@ from pytube import YouTube
 
 root = Tk()
 
-iconWindow = "./YouTubeDownloader.ico"
-logoApp = "./YouTubeDownloader.png"
+iconWindow = "./assets/YouTubeDownloader.ico"
+logoApp = "./assets/YouTubeDownloader.png"
 appName = "Youtube Downloader"
 
 root.title(appName)
