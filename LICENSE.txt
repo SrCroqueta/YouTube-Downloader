@@ -1,0 +1,10 @@
+MIT License
+
+Copyright (c) 2025 SrCroqueta (0x4a)
+
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y sus archivos de documentación asociados (el "Software"), para usarlo sin restricciones, incluyendo, pero no limitado a, los derechos para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software, y para permitir a las personas a quienes se les proporcione el Software hacer lo mismo, sujeto a las siguientes condiciones:
+
+La mencionada autorización debe incluir en todas las copias o partes sustanciales del Software, la siguiente advertencia de derechos de autor y la siguiente nota de permiso.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIALIZACIÓN, ADECUACIÓN PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DEL DERECHO DE AUTOR SERÁN RESPONSABLES POR CUALQUIER RECLAMACIÓN, DAÑO O CUALQUIER OTRA OBLIGACIÓN, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRA ACCIÓN, DERIVADA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO O CUALQUIER OTRA MANERA DE LA UTILIZACIÓN DEL SOFTWARE.
+
